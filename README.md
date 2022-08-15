@@ -1,18 +1,17 @@
-## hello world
+## Hello World
 ### App Description
-`TODO://` Add app description
+App description
 The app dispalys a message "Hello World from Naveen" to the user. Additionally, it provides an button to the user that changes text color when clicked
 
 ### App Walk-though
-
 <img src="http://g.recordit.co/JqJISJQXq4.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
-- [ ] 1. User sees custom text in a label - Hello from {name}!
-- [ ] 2. User see's custom background color.
-- [ ] 3. User can tap a button to change the text color of the label.
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
 - [ ] 1. User can tap a button to change the color of the background view.
