@@ -4,7 +4,6 @@
 The app dispalys a message "Hello World from Naveen" to the user. Additionally, it provides an button to the user that changes text color when clicked
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/JqJISJQXq4.gif" width=200><br>
 
